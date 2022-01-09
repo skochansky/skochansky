@@ -5,6 +5,7 @@
 - 📖 I’m currently learning --> Django & Design Patterns
 - ✨ I'm interested in --> ⌨️Programming 🧍 Personal Development 📈 Investing
 - 🏆 Goal --> Work as a Junior Python Developer ∨ Junior Software Engineer
+- 📫 How to reach me: stanislaw.kochanski@protonmail.com
 
 
 **Languages and Tools**
@@ -41,3 +42,4 @@
 [<img align="left" alt="Stanisław Kochański| LinkedIn" width="40px" src="https://img.icons8.com/color/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/stanis%C5%82aw-kocha%C5%84ski/
+
