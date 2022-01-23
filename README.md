@@ -1,10 +1,8 @@
 ### Hi there 👋
-- 💼 Current job position --> Global Advanced Engineering Technican
-- 👔 I'm looking for a job in --> `Python`
+- 💼 Current job position --> Python Developer
 - 🎓 Studying --> Applied Computer Science In the extramural mode
 - 📖 I’m currently learning --> Django & Design Patterns
 - ✨ I'm interested in --> ⌨️Programming 🧍 Personal Development 📈 Investing
-- 🏆 Goal --> Work as a Junior Python Developer ∨ Junior Software Engineer
 - 📫 How to reach me: stanislaw.kochanski@protonmail.com
 
 
