@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 💼 Current job position --> Python Developer
+- 💼 Current job positions --> Python Developer | Python Trainer | Programming Mentor
 - 🎓 Studying --> Applied Computer Science In the extramural mode
 - 📖 I’m currently learning --> Software Architecture
-- ✨ I'm interested in --> ⌨️Programming 🧍 Personal Development 📈 Investing
-- 📫 How to reach me: stanislaw.kochanski@protonmail.com
+- ✨ I'm interested in --> ⌨️ Programming 🧍 Personal Development 📈 Investing
+- 📫 How to reach me --> stanislaw.kochanski@protonmail.com
 
 
 **Languages and Tools**
@@ -39,5 +39,5 @@
 
 [<img align="left" alt="Stanisław Kochański| LinkedIn" width="40px" src="https://img.icons8.com/color/linkedin.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/stanis%C5%82aw-kocha%C5%84ski/
+[linkedin]: https://www.linkedin.com/in/stanislawkochanski/
 
