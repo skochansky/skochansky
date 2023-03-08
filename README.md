@@ -25,15 +25,6 @@
 ![macOS](https://img.shields.io/badge/-macOS-16C60C?style=flat-square&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-**My Github Stats**
-
-
-<a href="https://github.com/skochansky/skochansky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skochansky&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/skochansky/skochansky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skochansky&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="skochansky GitHub Stats" />
-</a>
 
 **Connect with me**
 
