@@ -24,7 +24,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-16C60C?style=flat-square&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-
+![Linux](https://img.shields.io/badge/-Linux-00ADEF?style=flat-square&logo=linux&logoColor=white)
 
 **Connect with me**
 
