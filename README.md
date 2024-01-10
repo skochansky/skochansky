@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 Current job positions --> Python Developer | Python Trainer | Programming Mentor
+- 💼 Current job positions --> Python Developer | Programming Mentor
 - 🎓 Studying --> Applied Computer Science In the extramural mode
 - 📖 I’m currently learning --> Software Architecture
 - ✨ I'm interested in --> ⌨️ Programming 🧍 Personal Development 📈 Investing
