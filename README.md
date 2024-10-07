@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 💼 Current job positions --> Python Developer | Programming Mentor
-- 🎓 Studying --> Applied Computer Science In the extramural mode
+- 💼 Current job positions --> Python Developer | Software Engineering Mentor
 - ✨ I'm interested in --> ⌨️ Programming 🧍 Personal Development 📈 Investing
 - 📫 How to reach me --> stanislaw.kochanski@protonmail.com
 
