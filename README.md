@@ -12,7 +12,6 @@
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![TravisCi](https://img.shields.io/badge/-TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -21,7 +20,6 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-16C60C?style=flat-square&logo=macOS&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-00ADEF?style=flat-square&logo=linux&logoColor=white)
 
 **Connect with me**
