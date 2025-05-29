@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 Current job positions --> Senior Fullstack Engineer | Software Engineering Mentor
+- 💼 Current job positions --> Senior Software Engineer | Software Engineering Mentor
 - ✨ I'm interested in --> ⌨️ Programming 🧍 Personal Development 📈 Investing
 - 📫 How to reach me --> stanislaw.kochanski@protonmail.com
 
